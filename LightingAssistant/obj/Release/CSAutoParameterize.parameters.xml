@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LightingAssistantContext-Web.config Connection String" description="LightingAssistantContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=LightingAssistantContext-20220314144944; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|LightingAssistantContext-20220314144944.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TheLastPiixel\\source\\repos\\LightingAssistant\\LightingAssistant\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LightingAssistantContext']/@connectionString" />
+  </parameter>
+</parameters>
